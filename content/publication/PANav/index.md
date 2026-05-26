@@ -7,6 +7,7 @@ authors:
 date: "2026-01-02T00:00:00Z"
 doi: ""
 publishDate: "2026-01-02T00:00:00Z"
+external_link: "https://sites.google.com/view/privacy-aware-nav"
 publication_types: ["3"]
 publication: Under Review
 publication_short: Under Review
@@ -26,4 +27,4 @@ projects: []
 slides: ""
 ---
 
-[Project page](https://sites.google.com/view/privacy-aware-nav)
+[Paper homepage](https://sites.google.com/view/privacy-aware-nav)
