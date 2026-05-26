@@ -7,6 +7,7 @@ authors:
 date: "2023-10-01T00:00:00Z"
 doi: ""
 publishDate: "2023-10-01T00:00:00Z"
+external_link: "https://sites.google.com/view/l3mvn"
 publication_types: ["1"]
 publication: In *IEEE/RSJ International Conference on Intelligent Robots and Systems*
 publication_short: In *IROS*
@@ -25,4 +26,4 @@ projects: []
 slides: ""
 ---
 
-[Project page](https://sites.google.com/view/l3mvn)
+[Paper homepage](https://sites.google.com/view/l3mvn)
