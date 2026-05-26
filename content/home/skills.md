@@ -1,53 +1,40 @@
 +++
 # A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+widget = "featurette"
+headless = true
+active = true
+weight = 15
 
 title = "Skills"
 subtitle = ""
-
-# Showcase personal skills or business features.
-# 
-# Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
   icon = "fas fa-robot"
   icon_pack = "fas"
   name = "Robotics"
-  description = "ROS, PID Control, Sensor Filter, Navigation" 
+  description = "ROS1, ROS2, SLAM, navigation, embedded systems, PID control"
 
 [[feature]]
-  icon = "fas fa-map-marked-alt"
+  icon = "fas fa-brain"
   icon_pack = "fas"
-  name = "SLAM"
-  description = "Mapping, Location, 3D scene graph"  
+  name = "Embodied AI"
+  description = "Visual semantic navigation, object-goal navigation, language-based navigation"
+
+[[feature]]
+  icon = "fas fa-users"
+  icon_pack = "fas"
+  name = "Multi-Robot Systems"
+  description = "Cooperative navigation and vision-language model based coordination"
 
 [[feature]]
   icon = "fab fa-leanpub"
   icon_pack = "fab"
-  name = "Learning"
-  description = "Reinforcement learning, Habitat platform"
+  name = "Machine Learning"
+  description = "PyTorch, LLMs, VLMs, reinforcement learning"
 
 [[feature]]
   icon = "far fa-file-code"
   icon_pack = "far"
   name = "Programming"
-  description = "C++, Python, C, Matlab"
-  
-[[feature]]
-  icon = "fas fa-microchip"
-  icon_pack = "fas"
-  name = "Embedden System"
-  description = "STM32, K60, CAN, UART, IIC, SPI"
-
-[[feature]]
-  icon = "fas fa-edit"
-  icon_pack = "fas"
-  name = "Design"
-  description = "Altium Designer for hardware, SolidWorks for machine"
-
+  description = "C/C++, Python, Matlab, LaTeX"
 +++
