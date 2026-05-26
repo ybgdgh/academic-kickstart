@@ -12,6 +12,7 @@ authors:
 date: "2020-10-25T00:00:00Z"
 doi: ""
 publishDate: "2020-10-25T00:00:00Z"
+external_link: "https://youtu.be/vEWNxnSwmKI/"
 publication_types: ["1"]
 publication: In *IEEE/RSJ International Conference on Intelligent Robots and Systems*
 publication_short: In *IROS*
@@ -31,7 +32,7 @@ projects: []
 slides: ""
 ---
 
-[Video](https://youtu.be/vEWNxnSwmKI/)
+[Supplementary video](https://youtu.be/vEWNxnSwmKI/)
 
 {{< figure src="AOG.jpg" title="The AOG structure." lightbox="true" >}}
 
