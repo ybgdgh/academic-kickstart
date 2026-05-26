@@ -1,0 +1,28 @@
+---
+title: "L3MVN: Leveraging Large Language Models for Visual Target Navigation"
+authors:
+- Bangguo Yu
+- Hamidreza Kasaei
+- Ming Cao
+date: "2023-10-01T00:00:00Z"
+doi: ""
+publishDate: "2023-10-01T00:00:00Z"
+publication_types: ["1"]
+publication: In *IEEE/RSJ International Conference on Intelligent Robots and Systems*
+publication_short: In *IROS*
+abstract: ""
+summary: "Leveraging large language models for visual target navigation."
+tags:
+- Robot Navigation
+- Large Language Models
+featured: true
+url_project: "https://sites.google.com/view/l3mvn"
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+projects: []
+slides: ""
+---
+
+[Project page](https://sites.google.com/view/l3mvn)
