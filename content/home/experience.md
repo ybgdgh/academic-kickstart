@@ -1,67 +1,81 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+widget = "experience"
+headless = true
+active = true
+weight = 40
 
 title = "Experience"
 subtitle = ""
 
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Reserch Intern"
-  company = "DMAI"
+  title = "Postdoctoral Researcher in Robotics"
+  company = "University of Groningen"
+  company_url = "https://www.rug.nl/"
+  location = "Groningen, The Netherlands"
+  date_start = "2026-03-01"
+  date_end = ""
+  description = """
+  Research on embodied artificial intelligence, robotic navigation, and multi-robot systems.
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "Tencent Robotics X"
+  company_url = ""
+  location = "Shenzhen, China"
+  date_start = "2023-12-01"
+  date_end = "2024-04-30"
+  description = """
+  Responsibilities include:
+
+  * Achieved state-of-the-art performance in zero-shot object-goal navigation and language-based navigation tasks.
+  * Proposed a zero-shot modular framework using game-theoretic vision-language models for visual target navigation with object descriptions.
+  * Evaluated the model on wheeled and legged robot platforms and analyzed sim-to-real transfer.
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "DMAI, Inc."
   company_url = ""
   location = "Guangzhou, China"
-  date_start = "2019-08-20"
-  date_end = "2020-01-03"
+  date_start = "2019-08-01"
+  date_end = "2020-01-31"
   description = """
   Responsibilities include:
-  
-  * Indoor 3D structured scene graph modeling
-  * 3D object relationship detection
-  * Semantic navigation demo based on 3D scene graph
+
+  * Designed a bottom-up framework for structured 3D scene graph generation.
+  * Modeled objects, relations, and attributes in 3D environments.
+  * Verified the method in human-robot interaction tasks.
   """
 
 [[experience]]
-  title = "Embedded engineer"
+  title = "Embedded System Engineer"
   company = "Shandong University"
   company_url = ""
-  location = "Shandong, China"
+  location = "Jinan, China"
   date_start = "2019-05-01"
-  date_end = "2019-08-19"
+  date_end = "2019-08-31"
   description = """
   Responsibilities include:
-  
-  * Designing embedded control board hardware and shell
-  * Communication with server by CAN to control more than ten borad simultaneously
-  * Control strong electricity (220V AC) using weak current (5V DC)
-  
+
+  * Designed embedded control board circuits and shells.
+  * Used CAN communication with the server to control more than ten boards simultaneously.
   """
 
 [[experience]]
-  title = "SLAM Algorithm engineer"
+  title = "SLAM Algorithm Engineer"
   company = "Shandong University"
   company_url = ""
-  location = "Shandong, China"
-  date_start = "2018-07-01"
-  date_end = "2019-03-19"
+  location = "Jinan, China"
+  date_start = "2018-09-01"
+  date_end = "2019-04-30"
   description = """
   Responsibilities include:
-  
-  * Reading the Cartographer designed by Google
-  * The open loop optimization of SLAM based on apriltag to overcome the gallery with sparse features
-  * Deploying the algorithm on the real robot 
-  
-  """
 
+  * Built maps in sparse-feature corridors using 2D laser data and WebSocket-based cloud mapping.
+  * Used AprilTag landmarks and Cartographer-based global optimization.
+  """
 +++
