@@ -9,6 +9,7 @@ authors:
 date: "2026-01-03T00:00:00Z"
 doi: ""
 publishDate: "2026-01-03T00:00:00Z"
+external_link: "https://sites.google.com/view/co-navgpt2"
 publication_types: ["2"]
 publication: In *IEEE Robotics and Automation Letters*
 publication_short: In *RA-L*
@@ -28,4 +29,4 @@ projects: []
 slides: ""
 ---
 
-[Project page](https://sites.google.com/view/co-navgpt2)
+[Paper homepage](https://sites.google.com/view/co-navgpt2)
