@@ -10,6 +10,7 @@ authors:
 date: "2026-01-01T00:00:00Z"
 doi: ""
 publishDate: "2026-01-01T00:00:00Z"
+external_link: "https://sites.google.com/view/vln-game"
 publication_types: ["2"]
 publication: In *IEEE Transactions on Robotics*
 publication_short: In *TRO*
@@ -29,4 +30,4 @@ projects: []
 slides: ""
 ---
 
-[Project page](https://sites.google.com/view/vln-game)
+[Paper homepage](https://sites.google.com/view/vln-game)
