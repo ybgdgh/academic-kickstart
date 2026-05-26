@@ -7,6 +7,7 @@ authors:
 date: "2023-05-29T00:00:00Z"
 doi: ""
 publishDate: "2023-05-29T00:00:00Z"
+external_link: "https://sites.google.com/view/fsevn"
 publication_types: ["1"]
 publication: In *IEEE International Conference on Robotics and Automation*
 publication_short: In *ICRA*
@@ -17,7 +18,7 @@ tags:
 - Embodied AI
 featured: true
 url_code: "https://github.com/ybgdgh/Frontier-Semantic-Exploration"
-url_project: "https://sites.google.com/view/fsemv"
+url_project: "https://sites.google.com/view/fsevn"
 url_video: "https://youtu.be/NpP0jRdFZoo"
 image:
   caption: "target navigation"
@@ -28,4 +29,4 @@ projects:
 slides: ""
 ---
 
-[Project page](https://sites.google.com/view/fsemv)
+[Paper homepage](https://sites.google.com/view/fsevn)
