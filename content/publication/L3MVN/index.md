@@ -20,7 +20,7 @@ featured: true
 url_pdf: "https://arxiv.org/pdf/2304.05501"
 url_code: "https://github.com/ybgdgh/L3MVN"
 url_project: "https://sites.google.com/view/l3mvn"
-url_video: "https://sites.google.com/view/l3mvn"
+url_video: "https://youtu.be/q2hIpH-0UOs"
 image:
   caption: ""
   focal_point: ""
@@ -29,4 +29,4 @@ projects: []
 slides: ""
 ---
 
-[Paper homepage](https://sites.google.com/view/l3mvn) | [Code](https://github.com/ybgdgh/L3MVN) | [Videos](https://sites.google.com/view/l3mvn)
+[Paper homepage](https://sites.google.com/view/l3mvn) | [Code](https://github.com/ybgdgh/L3MVN) | [Video](https://youtu.be/q2hIpH-0UOs)
