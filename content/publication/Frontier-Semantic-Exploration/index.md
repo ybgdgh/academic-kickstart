@@ -10,7 +10,7 @@ publishDate: "2023-05-29T00:00:00Z"
 external_link: "https://sites.google.com/view/fsevn"
 publication_types: ["1"]
 publication: In *IEEE International Conference on Robotics and Automation*
-publication_short: In *ICRA*
+publication_short: In *IEEE International Conference on Robotics and Automation*
 abstract: ""
 summary: "Frontier semantic exploration for visual target navigation."
 tags:
