@@ -12,7 +12,7 @@ publishDate: "2026-01-03T00:00:00Z"
 external_link: "https://sites.google.com/view/co-navgpt2"
 publication_types: ["2"]
 publication: In *IEEE Robotics and Automation Letters*
-publication_short: In *RA-L*
+publication_short: In *IEEE Robotics and Automation Letters*
 abstract: ""
 summary: "Multi-robot cooperative visual semantic navigation using vision-language models."
 tags:
