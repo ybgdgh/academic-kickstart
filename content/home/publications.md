@@ -1,5 +1,5 @@
 +++
-# A Recent Publications section created with the Pages widget.
+# A Publications section created with the Pages widget.
 # This section displays publications from `content/publication/`.
 
 widget = "pages"
@@ -24,7 +24,8 @@ subtitle = ""
     exclude_featured = false
 
 [design]
-  view = 2
+  # Citation view displays authors and journal/conference names.
+  view = 4
 
 [design.background]
 
