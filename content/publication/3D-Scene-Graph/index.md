@@ -15,7 +15,7 @@ publishDate: "2020-10-25T00:00:00Z"
 external_link: "https://youtu.be/vEWNxnSwmKI/"
 publication_types: ["1"]
 publication: In *IEEE/RSJ International Conference on Intelligent Robots and Systems*
-publication_short: In *IROS*
+publication_short: In *IEEE/RSJ International Conference on Intelligent Robots and Systems*
 abstract: ""
 summary: "A bottom-up framework for construction of structured semantic 3D scene graphs."
 tags:
