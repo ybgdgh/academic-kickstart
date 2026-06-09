@@ -22,9 +22,9 @@ summary: "Curriculum vitae of Bangguo Yu"
 - [VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation](https://sites.google.com/view/vln-game), IEEE Transactions on Robotics, 2026.
 - [PANav: Toward Privacy-Aware Robot Navigation via Vision-Language Models](https://sites.google.com/view/privacy-aware-nav), under review.
 - [Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Vision Language Models](https://sites.google.com/view/co-navgpt2), IEEE Robotics and Automation Letters, 2026.
-- [L3MVN: Leveraging Large Language Models for Visual Target Navigation](https://sites.google.com/view/l3mvn), IROS 2023.
-- [Frontier Semantic Exploration for Visual Target Navigation](https://sites.google.com/view/fsevn), ICRA 2023.
-- [A Bottom-up Framework for Construction of Structured Semantic 3D Scene Graph](https://youtu.be/vEWNxnSwmKI/), IROS 2020.
+- [L3MVN: Leveraging Large Language Models for Visual Target Navigation](https://sites.google.com/view/l3mvn), IEEE/RSJ International Conference on Intelligent Robots and Systems, 2023.
+- [Frontier Semantic Exploration for Visual Target Navigation](https://sites.google.com/view/fsevn), IEEE International Conference on Robotics and Automation, 2023.
+- [A Bottom-up Framework for Construction of Structured Semantic 3D Scene Graph](https://youtu.be/vEWNxnSwmKI/), IEEE/RSJ International Conference on Intelligent Robots and Systems, 2020.
 
 ## Experience
 
