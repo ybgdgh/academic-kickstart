@@ -21,7 +21,7 @@ featured: true
 url_pdf: "https://arxiv.org/pdf/2410.04302"
 url_code: "https://github.com/ybgdgh/Privacy-Aware-Nav"
 url_project: "https://sites.google.com/view/privacy-aware-nav"
-url_video: "https://sites.google.com/view/privacy-aware-nav"
+url_video: "https://youtu.be/9PMpfckohYI"
 image:
   caption: ""
   focal_point: ""
@@ -30,4 +30,4 @@ projects: []
 slides: ""
 ---
 
-[Paper homepage](https://sites.google.com/view/privacy-aware-nav) | [Code](https://github.com/ybgdgh/Privacy-Aware-Nav) | [Videos](https://sites.google.com/view/privacy-aware-nav)
+[Paper homepage](https://sites.google.com/view/privacy-aware-nav) | [Code](https://github.com/ybgdgh/Privacy-Aware-Nav) | [Video](https://youtu.be/9PMpfckohYI)
