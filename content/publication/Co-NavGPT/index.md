@@ -23,7 +23,7 @@ featured: true
 url_pdf: "https://arxiv.org/pdf/2310.07937"
 url_code: "https://github.com/ybgdgh/Co-NavGPT2"
 url_project: "https://sites.google.com/view/co-navgpt2"
-url_video: "https://sites.google.com/view/co-navgpt2"
+url_video: "https://youtu.be/Qyk0HlnlAvA"
 image:
   caption: ""
   focal_point: ""
@@ -32,4 +32,4 @@ projects: []
 slides: ""
 ---
 
-[Paper homepage](https://sites.google.com/view/co-navgpt2) | [Code](https://github.com/ybgdgh/Co-NavGPT2) | [Videos](https://sites.google.com/view/co-navgpt2)
+[Paper homepage](https://sites.google.com/view/co-navgpt2) | [Code](https://github.com/ybgdgh/Co-NavGPT2) | [Video](https://youtu.be/Qyk0HlnlAvA)
